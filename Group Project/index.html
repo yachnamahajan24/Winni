@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title> Zango</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <!-- Use a jQuery plug in  - 10 points -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+    <!-- Use a Third Party API - 10 points -->
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"> </script>
+    <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/backbone.js/1.1.2/backbone-min.js"> </script>
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+
+    <link rel="stylesheet" href="css/finalProject.css">
+    <link rel="stylesheet" href="css/chocolate/chocolate.css">
+    <link rel="stylesheet" type="text/css" href="css/CSStyle.css">
+    <script src="js/finalProject.js"></script>
+    <!--  <script src="js/data/chocolateData.js"></script>-->
+    <script src="js/model/chocolate/chocolateModel.js"></script>
+    <script src="js/model/chocolate/chocolateCollectionModel.js"></script>
+    <script src="js/model/login/loginModel.js"></script>
+    <script src="js/view/chocolate/chocolateView.js"></script>
+    <script src="js/view/chocolate/chocolateCollectionView.js"></script>
+    <script src="js/view/login/logInView.js"></script>
+
+    <script src="js/model/cart/cartModel.js"></script>
+    <script src="js/model/cart/cartCollectionModel.js"></script>
+    <script src="js/view/cart/cartView.js"></script>
+    <script src="js/view/cart/cartCollectionView.js"></script>
+    <script src="js/home.js"></script>
+    <script src="js/contactUs.js"></script>
+
+</head>
+
+<body>
+    <header>
+        <div class="head_box">
+            <div id="box-ha">
+                <h2 class="head">ZangO.com</h2>
+            </div>
+            <div id="box-hb">
+                <input type="text" placeholder="Search for products and inspiration">
+            </div>
+            <div id="box-hc">
+                <p id="guest">Hello Guest, </p>
+                <a href="#">
+                    <div id="showCart">
+                        <img src="Images/cart.png" style="width: 35px; padding: 0px; margin: 0px;">
+                        <p> Cart</p>
+
+                    </div>
+                </a>
+                <a href="#">
+                    <div id="acc">
+                        <img src="Images/acc.png" style="width: 35px; padding: 0px; margin: 0px;">
+                        <p> Account</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="Index.html"> Home</a></li>
+                <!--        Chocolates      -->
+                <li><a href="#"> Flowers</a>
+                    <ul>
+                        <li><a href="#" id="lillies">Lillies</a></li>
+                        <li><a id="mixedFlowers">Mixed flowers</a></li>
+                        <li><a id="orchids">Orchids</a></li>
+                        <li><a href="#" id="roses">Roses</a></li>
+                    </ul>
+                </li>
+                <!--        Cakes      -->
+                <li><a href="#"> Cakes</a>
+                    <ul>
+                        <li><a href="#" id="butterScotch">Butter Scotch</a></li>
+                        <li><a id="chocolate">Chocolate</a></li>
+                        <li><a id="pineapple">Pineapple</a></li>
+                        <li><a href="#" id="strawberry">Strawberry</a></li>
+                    </ul>
+                </li>
+
+                <!--        Chocolates      -->
+                <li><a href="#"> Chocolates</a>
+                    <ul>
+                        <li><a href="#" id="chocolateCombo">Chocolate Combos</a></li>
+                        <li><a id="chocolateBouquet">Chocolate Bouquets</a></li>
+                        <li><a id="exoticChocolates">Exotic Chocolates</a></li>
+                        <li><a href="#" id="sugarFreeChocolates">Sugar Free Chocolates</a></li>
+                    </ul>
+                </li>
+                <!--        Gifts      -->
+                <li><a href="#"> Gifts</a>
+                    <ul>
+                        <li><a href="#" id="kidsGifts">Gifts for Kids</a></li>
+                        <li><a href="#" id="girlsGifts">Gifts for Girls</a></li>
+                        <li><a href="#" id="boysGifts">Gifts for boys</a></li>
+                        <li><a href="#" id="parentsGifts">Gifts for parents</a></li>
+                    </ul>
+                </li>
+                <li><a href="#" id="contactUs"> Contact Us</a></li>
+            </ul>
+            <a href="#" class="material-icons" onclick="toggle()" id="abc">menu</a>
+        </nav>
+    </header>
+
+    <main>
+        <!------Home Wrapper---->
+        <div id="wrapper">
+            <div class="sContainer">
+                <a class="prev" onclick="incrementSlides(-1)">&#10094;</a>
+                <a class="next" onclick="incrementSlides(1)">&#10095;</a>
+                <div class="mySlides">
+                    <div class="textp">Toothsome Cakes and Choclates</div>
+                    <img src="Images/cake.jpg" style="width:100%">
+
+                </div>
+                <div class="mySlides">
+                    <div class="textp">Splendid Blooms</div>
+                    <img src="Images/flower.jpg" style="width:100%">
+
+                </div>
+                <div class="mySlides">
+                    <div class="textp">Personalized Gifts</div>
+                    <img src="Images/gift.jpg" style="width:100%">
+
+                </div>
+            </div>
+            <div>
+                <span class="circle" onclick="currentSlides(1)"></span>
+                <span class="circle" onclick="currentSlides(2)"></span>
+                <span class="circle" onclick="currentSlides(3)"></span>
+            </div>
+            <h1 class="scnd_head">The Best For Less</h1>
+            <h3 class="conth3">
+                <span id="days">&nbsp;</span>:
+                <span id="hours">&nbsp;</span>:
+                <span id="minutes">&nbsp;</span>:
+                <span id="seconds">&nbsp;</span>&nbsp;
+                <span id="ampm">&nbsp;</span>
+            </h3>
+            <div class="box">
+                <div id="box-1">
+                    <img src="Images/PNG1.png">
+                    <p> Rose Flowers</p>
+                    <p> $8</p>
+                </div>
+                <div id="box-1">
+                    <img src="Images/PNG2.png">
+                    <p> Cute Teddy</p>
+                    <p> $20</p>
+                </div>
+                <div id="box-1">
+                    <img src="Images/PNG4.png">
+                    <p> Era Of Love</p>
+                    <p> $15</p>
+                </div>
+                <div id="box-1">
+                    <img src="Images/PNG5.png">
+                    <p> Delicious Cake</p>
+                    <p> $10</p>
+                </div>
+            </div>
+
+            <div class="scnd_bg" id="quote">
+                <h1 class="scnd_head">Today's Quote For You</h1>
+                <div id="newQuote">
+                    <p class="p_scnd">For it is in giving that we receive.</p>
+                    <p id="writter">Francis of Assis</p>
+                </div>
+                <button id="quoteButton" type="button">Quote</button>
+
+            </div>
+
+
+            <div class="box-2">
+                <div id="box-2a">
+                    <h1 class="head">Party Room <br>Discount, <br> Upto 40% off</h1>
+
+                    <img class="dine" src="images/abcd.png">
+                    <!--
+                    <img class="dine" src="images/ba.jpg">
+                    <img class="dine" src="images/baa.jpg">
+                    <img class="dine" src="images/baaa.jpg">
+-->
+
+
+                </div>
+                <div id="box-2b">
+                    <img class="dine2" src="images/abcde.png">
+                    <!--
+                    <img class="dine" src="Images/dine2.jpg">
+                    <img class="dine" src="Images/dine2.jpg">
+                    <img class="dine" src="Images/dine2.jpg">
+-->
+                    <h1 class="head1"> Special Combo Discount, <br> Upto 40% off</h1>
+
+                </div>
+            </div>
+            <div class="shop">
+                <div class="box-3">
+                    <div id="box-3a">
+                        <a href="#">SHOP BY CATEGORY</a>
+                    </div>
+                    <div id="box-3a">
+                        <a href="#">SHOP CAKES</a> </div>
+                    <div id="box-3a">
+                        <a href="#">SHOP BY STYLE</a> </div>
+                </div>
+
+                <div class="box-3">
+                    <div id="box-4a">
+                        <a class="aitem" href="#">Butter Scotch Cake</a>
+                        <a class="aitem" href="#">Pineapple Cake</a>
+                        <a class="aitem" href="#">Choclate Cake</a>
+                        <a class="aitem" href="#">Strawberry Cake</a>
+                    </div>
+                    <div id="box-4a">
+                        <img id="img_box" src="Images/shop1.jpg">
+                    </div>
+                    <div id="box-4a">
+                        <a class="aitem" href="#">Personalized Gifts</a>
+                        <a class="aitem" href="#">Flowers</a>
+                        <a class="aitem" href="#">Chocolates</a>
+                        <a class="aitem" href="#">Combos</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="box-4">
+                <div id="box-3a">
+                    <h1 class="head_4"> From Concept to Creation</h1>
+                    <br>
+                    <br>
+                    <p>To mark the launch of our fifth TalentLAB collection, six of our designers open up their sketchbooks and talk inspiration.</p>
+                    <br><br>
+                    <a class="aitem" href="#"> Read More</a>
+                </div>
+                <div id="box-3b">
+                </div>
+            </div>
+
+            <div class="box-5">
+                <div id="box-5a">
+                    <h1 class="head_5">Where Innovative ideas are Appreciated </h1>
+                    <br><br><br><br>
+                    <p>To mark the launch of our fifth TalentLAB collection, six of our designers open up their sketchbooks and talk inspiration.TalentLAB is our game-changing, crowdsourcing platform. You upload your ideas. We curate a collection. You pledge on your favourite pieces, and the most popular get MADE. Our latest edit, The Zen Collection, is designed to calm the mind and make your home an oasis.</p>
+                    <br><br><br><br>
+                    <a class="aitem" href="#"> SEE THE LATEST EDIT</a>
+                </div>
+                <div id="box-5b">
+                </div>
+            </div>
+        </div>
+        <!------contact US Page---->
+
+        <div id="contactPage">
+            <div class="third_bg"></div>
+            <h1 class="scnd_head">Who Would You Like To Talk To</h1>
+            <div id="button1">
+                <input id="btn_active" type="button" value="SUPPORT" onclick="myFunction()">
+                <input id="btn" type="button" value="SALES" onclick="myFunction1()">
+            </div>
+
+            <div id="contactbox" class="contactbox">
+                <h1 class="head">Support Hours:<br> 8am - 8:30pm CST</h1>
+                <br>
+                <h3 class="conth3">
+                    <span id="hourss">&nbsp;</span>:
+                    <span id="minutess">&nbsp;</span>:
+                    <span id="secondss">&nbsp;</span>&nbsp;
+                    <span id="ampmm">&nbsp;</span>
+                </h3>
+
+                <div class="contactinf">
+                    <div>
+                        <h3 class="conth3">Contact Our Support Team</h3>
+                        <hr>
+                        <div class="cmainp">
+                            <br>
+                            <br>
+                            <h3 class="conth3"><span class="contactspan">Location:</span> 321 Awesome Street, New York, NY 17022</h3>
+                            <br>
+                            <br>
+                            <h3 class="conth3"><span class="contactspan">E-mail:</span> doctors@gmail.com</h3>
+                            <br>
+                            <br>
+                            <h3 class="conth3"><span class="contactspan">Contact at:</span>+1 416 768 1816</h3>
+                            <input type="button" value="LIVE CHAT" class="button">
+                        </div>
+                    </div>
+
+                    <div>
+                        <h3 class="conth3">Submit a Support Request Here</h3>
+                        <hr>
+                        <form id="support" method="get" autocomplete="off">
+                            <div>
+                                <select name="product" id="product">
+                                    <option selected disabled>What Do You Need Help With?</option>
+                                    <option>My Website</option>
+                                    <option>My Listing</option>
+                                    <option>My Market Insight</option>
+                                    <option>Billing</option>
+                                    <option>Other</option>
+                                </select>
+                                <span class="validation">*</span>
+                            </div>
+                            <input id="name" name="name" type="text" placeholder="First Name">
+                            <span class="validation">*</span>
+
+                            <input type="text" name="email" id="email" placeholder="E-Mail">
+                            <span class="validation">*</span>
+                            <input name="phone" id="phone" placeholder="999-999-0000" type="text">
+                            <span class="validation">*</span>
+                            <textarea class="text" rows="8" cols="50" placeholder="Message"></textarea>
+                            <span class="validation1">*</span>
+                            <input type="submit" class="button" value="Contact Us Now">
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div id="salesdiv">
+                <h1 class="head">Get in Touch With Our Sales Team</h1>
+                <div>
+                    <a href="tel:416-768-1816"><input type="button" value="416-768-1816" class="button"> </a>
+                    <a href=mailto:yachnamahajan24@gmail.com><input type="button" value="E-MAIL US" class="button"></a>
+                </div>
+
+                <form id="sales" method="get" autocomplete="off" onsubmit="return process()">
+                    <h1 id="salesContactAck"></h1>
+                    <input id="name1" name="name" type="text" placeholder="First Name">
+                    <span class="validation">*</span>
+
+                    <input name="email" id="email1" type="text" placeholder="E-Mail">
+                    <span class="validation">*</span>
+                    <input name="phone" id="phone1" placeholder="999-999-0000" type="text">
+                    <span class="validation">*</span>
+                    <select name="product" id="product1">
+                        <option selected disabled>Special Offers for our Customers</option>
+                        <option>Flat 50$ OFF -- Applicable on orders above 1000$</option>
+                        <option>Flat 10$ OFF -- Applicable on orders above 100$</option>
+                        <option>Flat 200$ OFF -- Applicable on orders above 2000$</option>
+
+                    </select>
+                    <div>
+                        <label class="conth3" for="website">Have You Placed any order Before </label>
+                        <input id="yes" type="radio" class="radio" name="website" value="yes"><label id="coll">Yes</label>
+                        <input id="no" type="radio" name="website" value="No" checked><label id="coll">No</label>
+                    </div>
+                    <label>&nbsp;</label>
+                    <input id="register" type="submit" value="Submit">
+                </form>
+
+            </div>
+        </div>
+
+
+        <!------Actual Menu Items---->
+        <div id="coverImage"></div>
+        <div id="chocolateContainer">
+            <script id="chocolate-template2" type="text/template">
+
+                <a href="#">
+                <%
+                let id = this.model.attributes.id;
+                %>
+                <img src=<%= this.model.attributes.image %> alt="Chocolate">
+                <h6><%= this.model.attributes.description %></h6>
+                <h6><%= this.model.attributes.price %></h6>
+                
+                <button class="btn btn-danger my-cart-btn" data-id="<%=id %>" data-name="product 1" data-summary="summary 1" data-price="10" data-quantity="1" data-image="images/img_1.png" id="addCart">Add to Cart</button>
+            </a>
+            </script>
+        </div>
+
+        <div id="cartCountDiv">
+            <h1 class="head_log">Your Cart</h1>
+            <hr>
+            <div id="cartCoun">Total Orders -<span id="cartCount">0</span></div>
+        </div>
+        <div id="cartContainer">
+            <script id="cart-template" type="text/template">
+                <%debugger;
+                let id = this.model.attributes.id;
+                let show = this.model.attributes.id !="" && this.model.attributes.id != undefined ;
+                if(show){
+                %>
+            <a href="#">
+                <div id="itemQuantity"> Qty : <%= this.model.attributes.quantity %></div>
+                <img src=<%= this.model.attributes.image %> alt="Chocolate">
+                <h6><%= this.model.attributes.description %></h6>
+                <h6><%= this.model.attributes.price %></h6>
+            </a>
+             <span class="glyphicon glyphicon-trash" id="removeCartItem"> REMOVE</span>
+             
+              <%}
+                %>
+            </script>
+
+            <button class="btn btn-danger my-cart-btn" data-id="<%=id %>" data-name="product 1" data-summary="summary 1" data-price="10" data-quantity="1" data-image="images/img_1.png" id="buyNow">Buy Now</button>
+        </div>
+
+        <!--- login -->
+
+        <div id=loginPage> </div>
+
+
+        <script id="login-template" type="text/template">
+            <%debugger;
+                %>
+           <h1 class="head_log">Welcome to Zango.com </h1>
+                <hr>
+                <div class="log">
+                    <h2 class="log_head"> Sign IN</h2>
+                    <br><br>
+                    <form class="form">
+                        <input type="text" id="email" name="firstname" placeholder="Your email@example.com" >
+                        <input type="text" id="pass" name="firstname" placeholder="Your Password..">
+                        <input  type="button" class="button" value="Sign IN"  id="signIn">
+                    </form>
+                    <div id="track_option">
+                      
+                    </div>
+                </div>
+              
+            </script>
+
+
+
+
+    </main>
+    <!------Footer---->
+    <footer>
+        <div class="box-4">
+            <div id="box-3a">
+                <p>About us</p>
+            </div>
+            <div id="box-3a">
+                <p>Help</p>
+            </div>
+            <div id="box-3a">
+                <p>Services</p>
+            </div>
+            <div id="box-3a">
+                <p> </p>
+            </div>
+        </div>
+        <div class="box-3">
+            <div id="box-4a">
+                <a href="#">Our Company</a>
+                <a href="#">Our Designers</a>
+                <a href="#">Customer Reviews</a>
+                <a href="#">Careers</a>
+            </div>
+            <div id="box-4a">
+                <a href="#">Tracking Order</a>
+                <a href="#">Help and FAQs</a>
+                <a href="#">Deliveries</a>
+                <a href="#">Returns</a>
+            </div>
+            <div id="box-4a">
+                <a href="#">Inspiration</a>
+                <a href="#">Vouchers</a>
+                <a href="#">Showroom</a>
+            </div>
+            <div id="box-4a">
+                <h2 class="head">ZangO.com</h2>
+            </div>
+        </div>
+        <hr>
+        <p class="copy"> ©2008-2010 Copyright by Mirror Communications. All rights reserved.
+        </p>
+    </footer>
+</body>
+
+</html>

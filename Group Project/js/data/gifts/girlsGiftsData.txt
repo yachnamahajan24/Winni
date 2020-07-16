@@ -1,0 +1,108 @@
+    [{
+        "id" : "girl1",
+        "description": "Elegant Designer Clutch",
+        "price" :"22$",
+        "image" :"images/gifts/girlsGifts/girl1.jpeg"
+    },             
+    {
+        "id" : "girl2",
+        "description": "All the Best toothsome Chocolates",
+        "price" :"11$",
+        "image" :"images/gifts/girlsGifts/girl2.jpeg"
+    },
+    {
+        "id" : "girl3",
+        "description": "All the Best White Chocolate",
+        "price" :"12$",
+       "image" :"images/gifts/girlsGifts/girl3.jpeg"
+    },
+    {
+        "id" : "girl4",
+        "description": "Pretty Silver Plated Pendant",
+        "price" :"50$",
+        "image" :"images/gifts/girlsGifts/girl4.jpeg"
+    },
+    {
+        "id" : "girl5",
+        "description": "All the Best delicious Chocolates",
+        "price" :"12$",
+        "image" :"images/gifts/girlsGifts/girl5.jpeg"
+    },
+    {
+        "id" : "girl6",
+        "description": "Customized Name Pendant",
+        "price" :"40$",
+        "image" :"images/gifts/girlsGifts/girl6.jpeg"
+    },
+    {
+        "id" : "girl7",
+        "description": "Customized Gold Plated Pendant",
+        "price" :"40$",
+        "image" :"images/gifts/girlsGifts/girl7.jpeg"
+    },
+    {
+        "id" : "girl8",
+        "description": "All the Best Yummy Chocolates",
+        "price" :"6$",
+        "image" :"images/gifts/girlsGifts/girl8.jpeg"
+    },
+    {
+        "id" : "girl9",
+        "description": "Stylish Necklace Set",
+        "price" :"21$",
+        "image" :"images/gifts/girlsGifts/girl9.jpeg"
+    },
+    {
+        "id" : "girl10",
+        "description": "Personalised Beer Mug",
+        "price" :"13$",
+        "image" :"images/gifts/girlsGifts/girl10.jpeg"
+    },
+     {
+        "id" : "girl11",
+        "description": "Good Mood Beer Mug",
+        "price" :"12$",
+        "image" :"images/gifts/girlsGifts/girl11.jpeg"
+    },             
+    {
+        "id" : "girl12",
+        "description": "Customized Photo Frame",
+        "price" :"20$",
+        "image" :"images/gifts/girlsGifts/girl12.jpeg"
+    },
+    {
+        "id" : "girl13",
+        "description": "Personalized Ceramic Plate",
+        "price" :"14$",
+        "image" :"images/gifts/girlsGifts/girl13.jpeg"
+    },
+     {
+        "id" : "girl14",
+        "description": "Exam Time Dark Bar with Almonds",
+        "price" :"8$",
+        "image" :"images/gifts/girlsGifts/girl14.jpeg"
+    },             
+    {
+        "id" : "girl15",
+        "description": "All the Best  succulent Chocolates",
+        "price" :"11$",
+        "image" :"images/gifts/girlsGifts/girl15.jpeg"
+    },
+    {
+        "id" : "girl16",
+        "description": "Personalised Rings",
+        "price" :"40$",
+        "image" :"images/gifts/girlsGifts/girl16.jpeg"
+    },
+     {
+        "id" : "girl17",
+        "description": "Ring for Queen",
+        "price" :"45$",
+        "image" :"images/gifts/girlsGifts/girl17.jpeg"
+    },             
+    {
+        "id" : "girl18",
+        "description": "Heart Shape Pendant",
+        "price" :"35$",
+        "image" :"images/gifts/girlsGifts/girl18.jpeg"
+    }]

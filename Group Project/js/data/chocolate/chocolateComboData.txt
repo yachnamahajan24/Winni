@@ -1,0 +1,108 @@
+    [{
+        "id" : "combo1",
+        "description": "Delectable Taste",
+        "price" :"30$",
+        "image" :"images/choclates/chocolatesCombo/combo1.jpeg"
+    },             
+    {
+        "id" : "combo2",
+        "description": "Put Magic In Your Bond",
+        "price" :"43$",
+        "image" :"images/choclates/chocolatesCombo/combo2.jpeg"
+    },
+    {
+        "id" : "combo3",
+        "description": "Era Of Love",
+        "price" :"28$",
+        "image" :"images/choclates/chocolatesCombo/combo3.jpeg"
+    },
+    {
+        "id" : "combo4",
+        "description": "Superbly Made",
+        "price" :"61$",
+        "image" :"images/choclates/chocolatesCombo/combo4.jpeg"
+    },
+    {
+        "id" : "combo5",
+        "description": "For Your Sweetheart",
+        "price" :"26$",
+        "image" :"images/choclates/chocolatesCombo/combo5.jpeg"
+    },
+    {
+        "id" : "combo6",
+        "description": "Box Of Flavorsome",
+        "price" :"41$",
+        "image" :"images/choclates/chocolatesCombo/combo6.jpeg"
+    },
+    {
+        "id" : "combo7",
+        "description": "Cheers To Joy",
+        "price" :"26$",
+        "image" :"images/choclates/chocolatesCombo/combo7.jpeg"
+    },
+    {
+        "id" : "combo8",
+        "description": "Statuesque Combo",
+        "price" :"39$",
+        "image" :"images/choclates/chocolatesCombo/combo8.jpeg"
+    },
+    {
+        "id" : "combo9",
+        "description": "Exotic Combo",
+        "price" :"45$",
+        "image" :"images/choclates/chocolatesCombo/combo9.jpeg"
+    },
+    {
+        "id" : "combo10",
+        "description": "Desire Of Hearts",
+        "price" :"41$",
+        "image" :"images/choclates/chocolatesCombo/combo10.jpeg"
+    },
+     {
+        "id" : "combo11",
+        "description": "Splendid Nature",
+        "price" :"21$",
+        "image" :"images/choclates/chocolatesCombo/combo11.jpeg"
+    },             
+    {
+        "id" : "combo12",
+        "description": "Refresh Your Soul",
+        "price" :"45$",
+        "image" :"images/choclates/chocolatesCombo/combo12.jpeg"
+    },
+    {
+        "id" : "combo13",
+        "description": "Party Lover",
+        "price" :"41$",
+        "image" :"images/choclates/chocolatesCombo/combo13.jpeg"
+    },
+    {
+        "id" : "combo14",
+        "description": "Weaving Love",
+        "price" :"44$",
+        "image" :"images/choclates/chocolatesCombo/combo14.jpeg"
+    },
+    {
+        "id" : "combo15",
+        "description": "Express The Moment",
+        "price" :"11$",
+        "image" :"images/choclates/chocolatesCombo/combo15.jpeg"
+    },
+    {
+        "id" : "combo16",
+        "description": "For A Smiling Face",
+        "price" :"53$",
+        "image" :"images/choclates/chocolatesCombo/combo16.jpeg"
+    },
+    {
+        "id" : "combo17",
+        "description": "Futuristic Lover",
+        "price" :"17$",
+        "image" :"images/choclates/chocolatesCombo/combo17.jpeg"
+    },
+    {
+        "id" : "combo18",
+        "description": "Show Your Passion",
+        "price" :"37$",
+        "image" :"images/choclates/chocolatesCombo/combo18.jpeg"
+    }]

@@ -1,0 +1,84 @@
+    [{
+        "id" : "sugarFree1",
+        "description": "Hypnotizing Sweet Chocos",
+        "price" :"7$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree1.jpeg"
+    },             
+    {
+        "id" : "sugarFree2",
+        "description": "Elegant Chocolate Tray",
+        "price" :"1$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree2.jpeg"
+    },
+    {
+        "id" : "sugarFree3",
+        "description": "Special Unique chocos",
+        "price" :"7$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree3.jpeg"
+    },
+    {
+        "id" : "sugarFree4",
+        "description": "Chocolate Delight",
+        "price" :"6$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree4.jpeg"
+    },
+    {
+        "id" : "sugarFree5",
+        "description": "Appreciation Chocolates",
+        "price" :"7$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree5.jpeg"
+    },
+    {
+        "id" : "sugarFree6",
+        "description": "Dark Affection",
+        "price" :"7$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree6.jpeg"
+    },
+    {
+        "id" : "sugarFree7",
+        "description": "Delicious and Nutritious Chocos",
+        "price" :"7$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree7.jpeg"
+    },
+    {
+        "id" : "sugarFree8",
+        "description": "Classic Rakhi Chocolate Cheer",
+        "price" :"34$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree8.jpeg"
+    },
+    {
+        "id" : "sugarFree9",
+        "description": "Tasty and Crazy Chocos",
+        "price" :"19$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree9.jpeg"
+    },
+    {
+        "id" : "sugarFree10",
+        "description": "Rakhi Delight Chocolate Box",
+        "price" :"12$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree10.jpeg"
+    },
+     {
+        "id" : "sugarFree11",
+        "description": "Brotherly affection Chocolates",
+        "price" :"17$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree11.jpeg"
+    },             
+    {
+        "id" : "sugarFree12",
+        "description": "Happy Birthday Chocolate",
+        "price" :"9$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree12.jpeg"
+    },
+    {
+        "id" : "sugarFree13",
+        "description": "Valentine Chocolate",
+        "price" :"9$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree13.jpeg"
+    },
+    {
+        "id" : "sugarFree14",
+        "description": "Belgian Style Pralines box of 24",
+        "price" :"8$",
+        "image" :"images/choclates/chocolatesSugarFree/sugarFree14.jpeg"
+    }]

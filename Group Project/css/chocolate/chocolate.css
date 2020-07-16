@@ -1,0 +1,74 @@
+/* Chocolate*/
+#chocolateContainer {
+    display: grid;
+    margin-top: 50px;
+}
+#chocolatecombo1, #chocolateboquet1, #chocolateexotic1, #chocolatesugarFree1, #chocolateboy1, #chocolategirl1, #chocolatekids1, #chocolateparent1,
+#chocolateBS1, #chocolateLilies1, #chocolateMF1, #chocolateOrchids1, #chocolateRose1, #chocolateChoc1, #chocolatePine1, #chocolateStraw1{
+    grid-column: 1/2;
+}
+#chocolatecombo2, #chocolateboquet2, #chocolateexotic2, #chocolatesugarFree2, #chocolateboy2, #chocolategirl2, #chocolatekids2, #chocolateparent2,
+#chocolateBS2, #chocolateLilies2, #chocolateMF2, #chocolateOrchids2, #chocolateRose2, #chocolateChoc2,#chocolatePine2, #chocolateStraw2{
+    grid-column: 2/3;
+}
+#chocolatecombo3, #chocolateboquet3, #chocolateexotic3, #chocolatesugarFree3, #chocolateboy3, #chocolategirl3, #chocolatekids3, #chocolateparent3,
+#chocolateBS3, #chocolateLilies3, #chocolateMF3, #chocolateOrchids3, #chocolateRose3, #chocolateChoc3, #chocolatePine3, #chocolateStraw3{
+    grid-column: 3/4;
+}
+#chocolatecombo4, #chocolateboquet4, #chocolateexotic4, #chocolatesugarFree4, #chocolateboy4, #chocolategirl4, #chocolatekids4, #chocolateparent4,
+#chocolateBS4, #chocolateLilies4, #chocolateMF4, #chocolateOrchids4, #chocolateRose4, #chocolateChoc4, #chocolatePine4, #chocolateStraw4{
+    grid-column: 4/5;
+}
+#chocolatecombo5, #chocolateboquet5, #chocolateexotic5, #chocolatesugarFree5, #chocolateboy5, #chocolategirl5, #chocolatekids5, #chocolateparent5,
+#chocolateBS5, #chocolateLilies5, #chocolateMF5, #chocolateOrchids5, #chocolateRose5, #chocolateChoc5, #chocolatePine5, #chocolateStraw5{
+    grid-column: 5/6;
+}
+
+#coverImage {
+   height: 0px;
+}
+
+[id^="cart"] {
+    font-size: 1.2em;
+    text-align: left;
+    margin: 10px;
+    border: 1px solid #FFF;
+    width: auto;
+}
+
+.cartItem{
+    padding: 20px; 
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#cartCoun{
+    color: black;
+    font-size: 2.2em;
+    text-align: left;
+    margin-top: 5px;
+    display: inline-block;
+    float: left;
+    margin-right: 700px;
+}
+
+#cartContainer,{
+    display: inline-block;
+    float: right;
+    padding: 0px;
+    
+}
+
+.btn-danger{
+     background-color: #fd9500;
+    width: 250px;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 16px;
+    cursor: pointer;
+    margin: 0px;
+}

@@ -1,0 +1,120 @@
+    [{
+        "id" : "Choc1",
+        "description": "Cake for father",
+        "price" :"21$",
+        "image" :"images/Cakes/Chocolate/Choc1.jpeg"
+    },             
+    {
+        "id" : "Choc2",
+        "description": "Delicious Cake",
+        "price" :"44$",
+        "image" :"images/Cakes/Chocolate/Choc2.jpeg"
+    },
+    {
+        "id" : "Choc3",
+        "description": "Truffle Heart shape",
+        "price" :"36$",
+       "image" :"images/Cakes/Chocolate/Choc3.jpeg"
+    },
+    {
+        "id" : "Choc4",
+        "description": "Dark Cake",
+        "price" :"12$",
+        "image" :"images/Cakes/Chocolate/Choc4.jpeg"
+    },
+    {
+        "id" : "Choc5",
+        "description": "Gourmet Cake",
+        "price" :"46$",
+        "image" :"images/Cakes/Chocolate/Choc5.jpeg"
+    },
+    {
+        "id" : "Choc6",
+        "description": "Almond Cake",
+        "price" :"20$",
+        "image" :"images/Cakes/Chocolate/Choc6.jpeg"
+    },
+    {
+        "id" : "Choc7",
+        "description": "Walnut Cake",
+        "price" :"25$",
+        "image" :"images/Cakes/Chocolate/Choc7.jpeg"
+    },
+    {
+        "id" : "Choc8",
+        "description": "Rich Cake",
+        "price" :"13$",
+        "image" :"images/Cakes/Chocolate/Choc8.jpeg"
+    },
+    {
+        "id" : "Choc9",
+        "description": "Yummy Cake",
+        "price" :"14$",
+        "image" :"images/Cakes/Chocolate/Choc9.jpeg"
+    },
+    {
+        "id" : "Choc10",
+        "description": "Tempting Cake",
+        "price" :"76$",
+        "image" :"images/Cakes/Chocolate/Choc10.jpeg"
+    },
+     {
+        "id" : "Choc11",
+        "description": "Sinful Cake",
+        "price" :"81$",
+        "image" :"images/Cakes/Chocolate/Choc11.jpeg"
+    },             
+    {
+        "id" : "Choc12",
+        "description": "Good Luck Cake",
+        "price" :"26$",
+        "image" :"images/Cakes/Chocolate/Choc12.jpeg"
+    },
+    {
+        "id" : "Choc13",
+        "description": "Desire Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc14",
+        "description": "Valvet Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc15",
+        "description": "Love Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc16",
+        "description": "Tranquil Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc17",
+        "description": "Fairy Desire Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc18",
+        "description": "Caring Heart Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc19",
+        "description": "Feeling Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    },
+    {
+        "id" : "Choc20",
+        "description": "Carmell Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Chocolate/Choc13.jpeg"
+    }]

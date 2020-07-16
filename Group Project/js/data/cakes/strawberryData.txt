@@ -1,0 +1,120 @@
+    [{
+        "id" : "Straw1",
+        "description": "Cake for father",
+        "price" :"21$",
+        "image" :"images/Cakes/Strawberry/Straw1.jpeg"
+    },             
+    {
+        "id" : "Straw2",
+        "description": "Delicious Cake",
+        "price" :"44$",
+        "image" :"images/Cakes/Strawberry/Straw2.jpeg"
+    },
+    {
+        "id" : "Straw3",
+        "description": "Truffle Heart shape",
+        "price" :"36$",
+       "image" :"images/Cakes/Strawberry/Straw3.jpeg"
+    },
+    {
+        "id" : "Straw4",
+        "description": "Dark Cake",
+        "price" :"12$",
+        "image" :"images/Cakes/Strawberry/Straw4.jpeg"
+    },
+    {
+        "id" : "Straw5",
+        "description": "Gourmet Cake",
+        "price" :"46$",
+        "image" :"images/Cakes/Strawberry/Straw5.jpeg"
+    },
+    {
+        "id" : "Straw6",
+        "description": "Almond Cake",
+        "price" :"20$",
+        "image" :"images/Cakes/Strawberry/Straw6.jpeg"
+    },
+    {
+        "id" : "Straw7",
+        "description": "Walnut Cake",
+        "price" :"25$",
+        "image" :"images/Cakes/Strawberry/Straw7.jpeg"
+    },
+    {
+        "id" : "Straw8",
+        "description": "Rich Cake",
+        "price" :"13$",
+        "image" :"images/Cakes/Strawberry/Straw8.jpeg"
+    },
+    {
+        "id" : "Straw9",
+        "description": "Yummy Cake",
+        "price" :"14$",
+        "image" :"images/Cakes/Strawberry/Straw9.jpeg"
+    },
+    {
+        "id" : "Straw10",
+        "description": "Tempting Cake",
+        "price" :"76$",
+        "image" :"images/Cakes/Strawberry/Straw10.jpeg"
+    },
+     {
+        "id" : "Straw11",
+        "description": "Sinful Cake",
+        "price" :"81$",
+        "image" :"images/Cakes/Strawberry/Straw11.jpeg"
+    },             
+    {
+        "id" : "Straw12",
+        "description": "Good Luck Cake",
+        "price" :"26$",
+        "image" :"images/Cakes/Strawberry/Straw12.jpeg"
+    },
+    {
+        "id" : "Straw13",
+        "description": "Desire Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw14",
+        "description": "Valvet Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw15",
+        "description": "Love Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw16",
+        "description": "Tranquil Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw17",
+        "description": "Fairy Desire Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw18",
+        "description": "Caring Heart Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw19",
+        "description": "Feeling Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    },
+    {
+        "id" : "Straw20",
+        "description": "Carmell Cake",
+        "price" :"60$",
+        "image" :"images/Cakes/Strawberry/Straw13.jpeg"
+    }]

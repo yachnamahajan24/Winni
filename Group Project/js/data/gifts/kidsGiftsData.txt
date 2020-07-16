@@ -1,0 +1,90 @@
+    [{
+        "id" : "kids1",
+        "description": "Red Cute Elephant",
+        "price" :"17$",
+        "image" :"images/gifts/kidsGifts/kids1.jpeg"
+    },             
+    {
+        "id" : "kids2",
+        "description": "Large Cream Teddy Bear",
+        "price" :"25$",
+        "image" :"images/gifts/kidsGifts/kids2.jpeg"
+    },
+    {
+        "id" : "kids3",
+        "description": "Small Pink Teddy",
+        "price" :"14$",
+       "image" :"images/gifts/kidsGifts/kids3.jpeg"
+    },
+    {
+        "id" : "kids4",
+        "description": "Medium Yellow Teddy Bear",
+        "price" :"21$",
+        "image" :"images/gifts/kidsGifts/kids4.jpeg"
+    },
+    {
+        "id" : "kids5",
+        "description": "Pink Cute Elephant",
+        "price" :"18$",
+        "image" :"images/gifts/kidsGifts/kids5.jpeg"
+    },
+    {
+        "id" : "kids6",
+        "description": "Blue Cute Elephant",
+        "price" :"18$",
+        "image" :"images/gifts/kidsGifts/kids6.jpeg"
+    },
+    {
+        "id" : "kids7",
+        "description": "Medium Pink Teddy",
+        "price" :"23$",
+        "image" :"images/gifts/kidsGifts/kids7.jpeg"
+    },
+    {
+        "id" : "kids8",
+        "description": "Small Red Teddy Bear",
+        "price" :"14$",
+        "image" :"images/gifts/kidsGifts/kids8.jpeg"
+    },
+    {
+        "id" : "kids9",
+        "description": "Yellow Cute Elephant",
+        "price" :"18$",
+        "image" :"images/gifts/kidsGifts/kids9.jpeg"
+    },
+    {
+        "id" : "kids10",
+        "description": "Small Cream Teddy",
+        "price" :"13$",
+        "image" :"images/gifts/kidsGifts/kids10.jpeg"
+    },
+     {
+        "id" : "kids11",
+        "description": "Medium Cream Teddy Bear",
+        "price" :"21$",
+        "image" :"images/gifts/kidsGifts/kids11.jpeg"
+    },             
+    {
+        "id" : "kids12",
+        "description": "Large Pink Teddy Bear",
+        "price" :"40$",
+        "image" :"images/gifts/kidsGifts/kids12.jpeg"
+    },
+    {
+        "id" : "kids13",
+        "description": "Medium Red Teddy Bear",
+        "price" :"20$",
+        "image" :"images/gifts/kidsGifts/kids13.jpeg"
+    },
+     {
+        "id" : "kids14",
+        "description": "Large Red Teddy Bear",
+        "price" :"20$",
+        "image" :"images/gifts/kidsGifts/kids14.jpeg"
+    },             
+    {
+        "id" : "kids15",
+        "description": "Small Yellow Teddy Bear",
+        "price" :"11$",
+        "image" :"images/gifts/kidsGifts/kids15.jpeg"
+    }]

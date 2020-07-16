@@ -1,0 +1,120 @@
+    [{
+        "id" : "exotic1",
+        "description": "Hypnotizing Sweet Chocos",
+        "price" :"17$",
+        "image" :"images/choclates/chocolatesExotic/exotic1.jpeg"
+    },             
+    {
+        "id" : "exotic2",
+        "description": "Elegant Chocolate Tray",
+        "price" :"11$",
+        "image" :"images/choclates/chocolatesExotic/exotic2.jpeg"
+    },
+    {
+        "id" : "exotic3",
+        "description": "Special Unique chocos",
+        "price" :"34$",
+        "image" :"images/choclates/chocolatesExotic/exotic3.jpeg"
+    },
+    {
+        "id" : "exotic4",
+        "description": "Chocolate Delight",
+        "price" :"24$",
+        "image" :"images/choclates/chocolatesExotic/exotic4.jpeg"
+    },
+    {
+        "id" : "exotic5",
+        "description": "Appreciation Chocolates",
+        "price" :"17$",
+        "image" :"images/choclates/chocolatesExotic/exotic5.jpeg"
+    },
+    {
+        "id" : "exotic6",
+        "description": "Dark Affection",
+        "price" :"14$",
+        "image" :"images/choclates/chocolatesExotic/exotic6.jpeg"
+    },
+    {
+        "id" : "exotic7",
+        "description": "Delicious and Nutritious Chocos",
+        "price" :"34$",
+        "image" :"images/choclates/chocolatesExotic/exotic7.jpeg"
+    },
+    {
+        "id" : "exotic8",
+        "description": "Classic Rakhi Chocolate Cheer",
+        "price" :"18$",
+        "image" :"images/choclates/chocolatesExotic/exotic8.jpeg"
+    },
+    {
+        "id" : "exotic9",
+        "description": "Tasty and Crazy Chocos",
+        "price" :"36$",
+        "image" :"images/choclates/chocolatesExotic/exotic9.jpeg"
+    },
+    {
+        "id" : "exotic10",
+        "description": "Rakhi Delight Chocolate Box",
+        "price" :"21$",
+        "image" :"images/choclates/chocolatesExotic/exotic10.jpeg"
+    },
+     {
+        "id" : "exotic11",
+        "description": "Brotherly affection Chocolates",
+        "price" :"73$",
+        "image" :"images/choclates/chocolatesExotic/exotic11.jpeg"
+    },             
+    {
+        "id" : "exotic12",
+        "description": "Happy Birthday Chocolate",
+        "price" :"14$",
+        "image" :"images/choclates/chocolatesExotic/exotic12.jpeg"
+    },
+    {
+        "id" : "exotic13",
+        "description": "Valentine Chocolate",
+        "price" :"11$",
+        "image" :"images/choclates/chocolatesExotic/exotic13.jpeg"
+    },
+    {
+        "id" : "exotic14",
+        "description": "Belgian Style Pralines box of 24",
+        "price" :"39$",
+        "image" :"images/choclates/chocolatesExotic/exotic14.jpeg"
+    },
+    {
+        "id" : "exotic15",
+        "description": "Magical Chocolaty Delight",
+        "price" :"10$",
+        "image" :"images/choclates/chocolatesExotic/exotic15.jpeg"
+    },
+    {
+        "id" : "exotic16",
+        "description": "Milk Chocolate Coated Biscuit",
+        "price" :"24$",
+        "image" :"images/choclates/chocolatesExotic/exotic16.jpeg"
+    },
+    {
+        "id" : "exotic17",
+        "description": "Royal Rakhi Gift Hamper",
+        "price" :"60$",
+        "image" :"images/choclates/chocolatesExotic/exotic17.jpeg"
+    },
+    {
+        "id" : "exotic18",
+        "description": "A Tasteful Shower",
+        "price" :"17$",
+        "image" :"images/choclates/chocolatesExotic/exotic18.jpeg"
+    },
+    {
+        "id" : "exotic19",
+        "description": "Happy Birthday Rosette with Truffles",
+        "price" :"15$",
+        "image" :"images/choclates/chocolatesExotic/exotic19.jpeg"
+    },
+    {
+        "id" : "exotic20",
+        "description": "Just for the record Happy Birthday",
+        "price" :"14$",
+        "image" :"images/choclates/chocolatesExotic/exotic20.jpeg"
+    }]

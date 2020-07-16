@@ -1,0 +1,120 @@
+    [{
+        "id" : "parent1",
+        "description": "Golden Jhumkas",
+        "price" :"21$",
+        "image" :"images/gifts/parentsGifts/parent1.jpeg"
+    },             
+    {
+        "id" : "parent2",
+        "description": "Super Mom T Shirt",
+        "price" :"10$",
+        "image" :"images/gifts/parentsGifts/parent2.jpeg"
+    },
+    {
+        "id" : "parent3",
+        "description": "Best Mom Chocolate",
+        "price" :"30$",
+       "image" :"images/gifts/parentsGifts/parent3.jpeg"
+    },
+    {
+        "id" : "parent4",
+        "description": "Chromatic Tote bag",
+        "price" :"25$",
+        "image" :"images/gifts/parentsGifts/parent4.jpeg"
+    },
+    {
+        "id" : "parent5",
+        "description": "Endless Love",
+        "price" :"20$",
+        "image" :"images/gifts/parentsGifts/parent5.jpeg"
+    },
+    {
+        "id" : "parent6",
+        "description": "Silver Plated Steel Pooja Thali",
+        "price" :"22$",
+        "image" :"images/gifts/parentsGifts/parent6.jpeg"
+    },
+    {
+        "id" : "parent7",
+        "description": "Lovely Ceramic Plate",
+        "price" :"16$",
+        "image" :"images/gifts/parentsGifts/parent7.jpeg"
+    },
+    {
+        "id" : "parent8",
+        "description": "Copper Plated Pendant",
+        "price" :"40$",
+        "image" :"images/gifts/parentsGifts/parent8.jpeg"
+    },
+    {
+        "id" : "parent9",
+        "description": "Lovely Mother T Shirt",
+        "price" :"10$",
+        "image" :"images/gifts/parentsGifts/parent9.jpeg"
+    },
+    {
+        "id" : "parent10",
+        "description": "Choco Chip cake for Mom",
+        "price" :"16$",
+        "image" :"images/gifts/parentsGifts/parent10.jpeg"
+    },
+     {
+        "id" : "parent11",
+        "description": "Silver & Gold Plated Brass Mouthfreshner Set",
+        "price" :"21$",
+        "image" :"images/gifts/parentsGifts/parent11.jpeg"
+    },             
+    {
+        "id" : "parent12",
+        "description": "Metal Design Necklace",
+        "price" :"21$",
+        "image" :"images/gifts/parentsGifts/parent12.jpeg"
+    },
+    {
+        "id" : "parent13",
+        "description": "Number 1 Mom Chocolate",
+        "price" :"10$",
+        "image" :"images/gifts/parentsGifts/parent13.jpeg"
+    },
+     {
+        "id" : "parent14",
+        "description": "Motif Design Handbagr",
+        "price" :"25$",
+        "image" :"images/gifts/parentsGifts/parent14.jpeg"
+    },             
+    {
+        "id" : "parent15",
+        "description": "Coke Party Candles",
+        "price" :"45$",
+        "image" :"images/gifts/parentsGifts/parent15.jpeg"
+    },
+    {
+        "id" : "parent16",
+        "description": "Silver & Gold Plated Stylish Bowl Set of 3 Pcs",
+        "price" :"11$",
+        "image" :"images/gifts/parentsGifts/parent16.jpeg"
+    },             
+    {
+        "id" : "parent17",
+        "description": "Happy Mother Day T Shirt",
+        "price" :"10$",
+        "image" :"images/gifts/parentsGifts/parent17.jpeg"
+    },
+    {
+        "id" : "parent18",
+        "description": "Perfect Combo for Love",
+        "price" :"40$",
+        "image" :"images/gifts/parentsGifts/parent18.jpeg"
+    },
+     {
+        "id" : "parent19",
+        "description": "Cake for Mothers Day",
+        "price" :"12$",
+        "image" :"images/gifts/parentsGifts/parent19.jpeg"
+    },             
+    {
+        "id" : "parent20",
+        "description": "Lovely Combo for Mom",
+        "price" :"21$",
+        "image" :"images/gifts/parentsGifts/parent20.jpeg"
+    }]

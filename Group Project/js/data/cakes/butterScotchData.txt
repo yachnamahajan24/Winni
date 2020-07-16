@@ -1,0 +1,60 @@
+    [{
+        "id" : "BS1",
+        "description": "Cake for father",
+        "price" :"21$",
+        "image" :"images/Cakes/ButterScotch/BS1.jpeg"
+    },             
+    {
+        "id" : "BS2",
+        "description": "Delicious Cake",
+        "price" :"44$",
+        "image" :"images/Cakes/ButterScotch/BS2.jpeg"
+    },
+    {
+        "id" : "BS3",
+        "description": "Truffle Heart shape",
+        "price" :"36$",
+       "image" :"images/Cakes/ButterScotch/BS3.jpeg"
+    },
+    {
+        "id" : "BS4",
+        "description": "Dark Cake",
+        "price" :"12$",
+        "image" :"images/Cakes/ButterScotch/BS4.jpeg"
+    },
+    {
+        "id" : "BS5",
+        "description": "Gourmet Cake",
+        "price" :"46$",
+        "image" :"images/Cakes/ButterScotch/BS5.jpeg"
+    },
+    {
+        "id" : "BS6",
+        "description": "Almond Cake",
+        "price" :"20$",
+        "image" :"images/Cakes/ButterScotch/BS6.jpeg"
+    },
+    {
+        "id" : "BS7",
+        "description": "Walnut Cake",
+        "price" :"25$",
+        "image" :"images/Cakes/ButterScotch/BS7.jpeg"
+    },
+    {
+        "id" : "BS8",
+        "description": "Rich Cake",
+        "price" :"13$",
+        "image" :"images/Cakes/ButterScotch/BS8.jpeg"
+    },
+    {
+        "id" : "BS9",
+        "description": "Yummy Cake",
+        "price" :"14$",
+        "image" :"images/Cakes/ButterScotch/BS9.jpeg"
+    },
+    {
+        "id" : "BS10",
+        "description": "Tempting Cake",
+        "price" :"76$",
+        "image" :"images/Cakes/ButterScotch/BS10.jpeg"
+    }]

@@ -1,0 +1,78 @@
+    [{
+        "id" : "boquet1",
+        "description": "Two Layer Assorted",
+        "price" :"21$",
+        "image" :"images/choclates/chocolatesBoquet/boquet1.jpeg"
+    },             
+    {
+        "id" : "boquet2",
+        "description": "Fairy Desire",
+        "price" :"44$",
+        "image" :"images/choclates/chocolatesBoquet/boquet2.jpeg"
+    },
+    {
+        "id" : "boquet3",
+        "description": "Flight of happiness",
+        "price" :"36$",
+       "image" :"images/choclates/chocolatesBoquet/boquet3.jpeg"
+    },
+    {
+        "id" : "boquet4",
+        "description": "Expressive Love",
+        "price" :"12$",
+        "image" :"images/choclates/chocolatesBoquet/boquet4.jpeg"
+    },
+    {
+        "id" : "boquet5",
+        "description": "Color of happiness",
+        "price" :"46$",
+        "image" :"images/choclates/chocolatesBoquet/boquet5.jpeg"
+    },
+    {
+        "id" : "boquet6",
+        "description": "Silk Chocolate Bouquet",
+        "price" :"20$",
+        "image" :"images/choclates/chocolatesBoquet/boquet6.jpeg"
+    },
+    {
+        "id" : "boquet7",
+        "description": "Cadbury With Rose",
+        "price" :"25$",
+        "image" :"images/choclates/chocolatesBoquet/boquet7.jpeg"
+    },
+    {
+        "id" : "boquet8",
+        "description": "Glowing with love",
+        "price" :"13$",
+        "image" :"images/choclates/chocolatesBoquet/boquet8.jpeg"
+    },
+    {
+        "id" : "boquet9",
+        "description": "Sweet Romance",
+        "price" :"14$",
+        "image" :"images/choclates/chocolatesBoquet/boquet9.jpeg"
+    },
+    {
+        "id" : "boquet10",
+        "description": "Magical Aura",
+        "price" :"76$",
+        "image" :"images/choclates/chocolatesBoquet/boquet10.jpeg"
+    },
+     {
+        "id" : "boquet11",
+        "description": "For my elegant lady",
+        "price" :"81$",
+        "image" :"images/choclates/chocolatesBoquet/boquet11.jpeg"
+    },             
+    {
+        "id" : "boquet12",
+        "description": "Shiny Wishes",
+        "price" :"26$",
+        "image" :"images/choclates/chocolatesBoquet/boquet12.jpeg"
+    },
+    {
+        "id" : "boquet13",
+        "description": "Ritzy Aura",
+        "price" :"60$",
+        "image" :"images/choclates/chocolatesBoquet/boquet13.jpeg"
+    }]

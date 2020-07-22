@@ -149,8 +149,8 @@ $(document).ready(function () {
         let textFileName = "";
         const path = "./images/";
         const chocolate = "choclates/";
-        const gifts = "Gifts/";
-        const flowers = "flowers/";
+        const gifts = "gifts/";
+        const flowers = "Flowers/";
         const cakes = "Cakes/";
         //Use a switch statement with at least 3 cases and 1 default - 10 points
         switch (id) {

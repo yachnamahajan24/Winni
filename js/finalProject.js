@@ -149,9 +149,9 @@ $(document).ready(function () {
         let textFileName = "";
         const path = "./images/";
         const chocolate = "choclates/";
-        const gifts = "gifts/";
+        const gifts = "Gifts/";
         const flowers = "flowers/";
-        const cakes = "cakes/";
+        const cakes = "Cakes/";
         //Use a switch statement with at least 3 cases and 1 default - 10 points
         switch (id) {
             case "chocolateCombo":
@@ -179,28 +179,28 @@ $(document).ready(function () {
                 textFileName = gifts + "parentsGifts/coverImage/parentsGifts-cover.png";
                 break;
             case "butterScotch":
-                textFileName = Cakes + "ButterScotch/coverImage/ButterScotch-cover.jpg";
+                textFileName = cakes + "ButterScotch/coverImage/ButterScotch-cover.jpg";
                 break;
             case "chocolate":
-                textFileName = Cakes + "Chocolate/coverImage/Chocolate-cover.jpg";
+                textFileName = cakes + "Chocolate/coverImage/Chocolate-cover.jpg";
                 break;
             case "pineapple":
-                textFileName = Cakes + "Pineapple/coverImage/Pineapple-cover.jpg";
+                textFileName = cakes + "Pineapple/coverImage/Pineapple-cover.jpg";
                 break;
             case "strawberry":
-                textFileName = Cakes + "Strawberry/coverImage/Strawberry-cover.jpg";
+                textFileName = cakes + "Strawberry/coverImage/Strawberry-cover.jpg";
                 break;
             case "lillies":
-                textFileName = Flowers + "Lilies/coverImage/Lilies-cover.jpg";
+                textFileName = flowers + "Lilies/coverImage/Lilies-cover.jpg";
                 break;
             case "mixedFlowers":
-                textFileName = Flowers + "MixedFlowers/coverImage/MixedFlowers-cover.jpg";
+                textFileName = flowers + "MixedFlowers/coverImage/MixedFlowers-cover.jpg";
                 break;
             case "orchids":
-                textFileName = Flowers + "Orchids/coverImage/Orchids-cover.jpg";
+                textFileName = flowers + "Orchids/coverImage/Orchids-cover.jpg";
                 break;
             case "roses":
-                textFileName = Flowers + "Roses/coverImage/Roses-cover.jpg";
+                textFileName = flowers + "Roses/coverImage/Roses-cover.jpg";
                 break;
             default:
                 break;

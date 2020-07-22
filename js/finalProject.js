@@ -179,28 +179,28 @@ $(document).ready(function () {
                 textFileName = gifts + "parentsGifts/coverImage/parentsGifts-cover.png";
                 break;
             case "butterScotch":
-                textFileName = cakes + "ButterScotch/coverImage/ButterScotch-cover.jpg";
+                textFileName = Cakes + "ButterScotch/coverImage/ButterScotch-cover.jpg";
                 break;
             case "chocolate":
-                textFileName = cakes + "Chocolate/coverImage/Chocolate-cover.jpg";
+                textFileName = Cakes + "Chocolate/coverImage/Chocolate-cover.jpg";
                 break;
             case "pineapple":
-                textFileName = cakes + "Pineapple/coverImage/Pineapple-cover.jpg";
+                textFileName = Cakes + "Pineapple/coverImage/Pineapple-cover.jpg";
                 break;
             case "strawberry":
-                textFileName = cakes + "Strawberry/coverImage/Strawberry-cover.jpg";
+                textFileName = Cakes + "Strawberry/coverImage/Strawberry-cover.jpg";
                 break;
             case "lillies":
-                textFileName = flowers + "Lilies/coverImage/Lilies-cover.jpg";
+                textFileName = Flowers + "Lilies/coverImage/Lilies-cover.jpg";
                 break;
             case "mixedFlowers":
-                textFileName = flowers + "MixedFlowers/coverImage/MixedFlowers-cover.jpg";
+                textFileName = Flowers + "MixedFlowers/coverImage/MixedFlowers-cover.jpg";
                 break;
             case "orchids":
-                textFileName = flowers + "Orchids/coverImage/Orchids-cover.jpg";
+                textFileName = Flowers + "Orchids/coverImage/Orchids-cover.jpg";
                 break;
             case "roses":
-                textFileName = flowers + "Roses/coverImage/Roses-cover.jpg";
+                textFileName = Flowers + "Roses/coverImage/Roses-cover.jpg";
                 break;
             default:
                 break;
